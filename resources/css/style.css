@@ -29,3 +29,18 @@ video {
 img {
     max-width: 80%;
 }
+footer {
+    text-align: right;
+    color: gray;
+    padding: 20px;
+    font-size: 14px;
+}
+
+p {
+    font-size: 18px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
